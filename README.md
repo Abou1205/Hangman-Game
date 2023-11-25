@@ -35,4 +35,4 @@ This is a simple Hangman game built with HTML, CSS, and JavaScript.
 
 ## Demo
 
-![Hangman Game Gif](hangman.mp4)
+![Hangman Game](hangman.gif)
