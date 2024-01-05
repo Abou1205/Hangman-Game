@@ -16,7 +16,7 @@ This is a simple Hangman game built with HTML, CSS, and JavaScript.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hangman-game.git
+   git clone https://github.com/Abou1205/hangman-game.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
